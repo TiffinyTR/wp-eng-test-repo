@@ -28,7 +28,7 @@
 							<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo( 'name' ); ?></a>
 						</p><!-- .footer-copyright -->
 
-                        <h2>Hello this is a edited footer text</h2>
+                        <p style="font-size: 10px;">Hello this is smaller footer text</p>
 						<p class="powered-by-wordpress">
 							<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentytwenty' ) ); ?>">
 								<?php _e( 'Powered by WordPress', 'twentytwenty' ); ?>
