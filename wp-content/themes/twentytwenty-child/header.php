@@ -65,7 +65,7 @@
 							// Site description.
 							twentytwenty_site_description();
 						?>
-                        <span>Here is some custom title text</span>
+                        <span>Change content</span>
 					</div><!-- .header-titles -->
 
 					<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal"  data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
